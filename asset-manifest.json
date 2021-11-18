@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/house-of-food/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/house-of-food/static/js/main.3d7e33e3.chunk.js",
+    "main.js.map": "/house-of-food/static/js/main.3d7e33e3.chunk.js.map",
+    "runtime-main.js": "/house-of-food/static/js/runtime-main.54b41dba.js",
+    "runtime-main.js.map": "/house-of-food/static/js/runtime-main.54b41dba.js.map",
+    "static/js/2.5237f626.chunk.js": "/house-of-food/static/js/2.5237f626.chunk.js",
+    "static/js/2.5237f626.chunk.js.map": "/house-of-food/static/js/2.5237f626.chunk.js.map",
+    "static/js/3.c8b386d0.chunk.js": "/house-of-food/static/js/3.c8b386d0.chunk.js",
+    "static/js/3.c8b386d0.chunk.js.map": "/house-of-food/static/js/3.c8b386d0.chunk.js.map",
+    "index.html": "/house-of-food/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/house-of-food/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.5237f626.chunk.js.LICENSE.txt": "/house-of-food/static/js/2.5237f626.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/house-of-food/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54b41dba.js",
+    "static/js/2.5237f626.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.3d7e33e3.chunk.js"
+  ]
+}
