@@ -1,22 +1,24 @@
 {
   "files": {
-    "main.css": "/house-of-food/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/house-of-food/static/js/main.6155c5ab.chunk.js",
-    "main.js.map": "/house-of-food/static/js/main.6155c5ab.chunk.js.map",
-    "runtime-main.js": "/house-of-food/static/js/runtime-main.54b41dba.js",
-    "runtime-main.js.map": "/house-of-food/static/js/runtime-main.54b41dba.js.map",
-    "static/js/2.a9439c39.chunk.js": "/house-of-food/static/js/2.a9439c39.chunk.js",
-    "static/js/2.a9439c39.chunk.js.map": "/house-of-food/static/js/2.a9439c39.chunk.js.map",
-    "static/js/3.c8b386d0.chunk.js": "/house-of-food/static/js/3.c8b386d0.chunk.js",
-    "static/js/3.c8b386d0.chunk.js.map": "/house-of-food/static/js/3.c8b386d0.chunk.js.map",
+    "main.css": "/house-of-food/static/css/main.470dca71.chunk.css",
+    "main.js": "/house-of-food/static/js/main.3ed56e68.chunk.js",
+    "main.js.map": "/house-of-food/static/js/main.3ed56e68.chunk.js.map",
+    "runtime-main.js": "/house-of-food/static/js/runtime-main.3641f415.js",
+    "runtime-main.js.map": "/house-of-food/static/js/runtime-main.3641f415.js.map",
+    "static/js/2.9992d633.chunk.js": "/house-of-food/static/js/2.9992d633.chunk.js",
+    "static/js/2.9992d633.chunk.js.map": "/house-of-food/static/js/2.9992d633.chunk.js.map",
+    "static/js/3.696e528f.chunk.js": "/house-of-food/static/js/3.696e528f.chunk.js",
+    "static/js/3.696e528f.chunk.js.map": "/house-of-food/static/js/3.696e528f.chunk.js.map",
     "index.html": "/house-of-food/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/house-of-food/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.a9439c39.chunk.js.LICENSE.txt": "/house-of-food/static/js/2.a9439c39.chunk.js.LICENSE.txt"
+    "static/css/main.470dca71.chunk.css.map": "/house-of-food/static/css/main.470dca71.chunk.css.map",
+    "static/js/2.9992d633.chunk.js.LICENSE.txt": "/house-of-food/static/js/2.9992d633.chunk.js.LICENSE.txt",
+    "static/media/global.scss": "/house-of-food/static/media/Tinos-Regular.4fe0a7e8.ttf",
+    "static/media/sprite.bc007927.svg": "/house-of-food/static/media/sprite.bc007927.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.54b41dba.js",
-    "static/js/2.a9439c39.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.6155c5ab.chunk.js"
+    "static/js/runtime-main.3641f415.js",
+    "static/js/2.9992d633.chunk.js",
+    "static/css/main.470dca71.chunk.css",
+    "static/js/main.3ed56e68.chunk.js"
   ]
 }
